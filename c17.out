@@ -1,0 +1,24 @@
+
+input1: 000xx
+ 		 fault free output1: 0x
+fault 2/1: fault injected output1: 11	 Fault detected
+fault 11/0: fault injected output1: 00	 Fault detected
+fault 22/0: fault injected output1: 0x	 Fault not detected
+fault 16/1: fault injected output1: 0x	 Fault not detected
+fault 6/1: fault injected output1: 0x	 Fault not detected
+
+input2: x10xx
+ 		 fault free output2: 11
+fault 2/1: fault injected output2: 11	 Fault not detected
+fault 11/0: fault injected output2: 00	 Fault detected
+fault 22/0: fault injected output2: 01	 Fault detected
+fault 16/1: fault injected output2: 0x	 Fault detected
+fault 6/1: fault injected output2: 11	 Fault not detected
+
+input3: 1x1xx
+ 		 fault free output3: 1x
+fault 2/1: fault injected output3: 1x	 Fault not detected
+fault 11/0: fault injected output3: 10	 Fault detected
+fault 22/0: fault injected output3: 0x	 Fault detected
+fault 16/1: fault injected output3: 1x	 Fault not detected
+fault 6/1: fault injected output3: 10	 Fault detected
