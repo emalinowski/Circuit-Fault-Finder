@@ -419,3 +419,4 @@ int Readfault(FILE *ffau,FAULT *struck)
 	}
 	return i;
 }//end of Readfault
+//new
