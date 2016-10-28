@@ -1,0 +1,15 @@
+{
+  "id": "123",
+  "username": {
+    "encrypted_data": "8z5hGSfvfF3lYhahvJuOw77WyjTjQ+82A0M1meDEtEg=\n",
+    "iv": "hKtYYYcJ3XsrsjXOesOCYg==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "password": {
+    "encrypted_data": "m3pQllwdBcbTiNuYBaftZr4qI1lW9ZAI5niLj+Baw+M=\n",
+    "iv": "iX6VlRuRz74ZZUobhbWb3Q==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
