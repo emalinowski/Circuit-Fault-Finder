@@ -1,14 +1,14 @@
 {
   "id": "1234",
   "username": {
-    "encrypted_data": "5C0CTqbyvmQb/sDFR8kTz0gjB8CBT8KQtvsd74pKGUw=\n",
-    "iv": "Qboah0JS+dhZOE/kwlqpag==\n",
+    "encrypted_data": "Bt8LuCrtLrLwY+lPgp86L20F4kCv2QkYDvbicFBnLVU=\n",
+    "iv": "00l7iqIbqXLrDepQEs7Usw==\n",
     "version": 1,
     "cipher": "aes-256-cbc"
   },
   "password": {
-    "encrypted_data": "gGiTh+3GJnIepIRJBlcETuyUQ13NylnVWOUR3kXbFjs=\n",
-    "iv": "5dyHWqWFoxJgAjtLzsBmhw==\n",
+    "encrypted_data": "435CnRFXU28sS5PsjYNKT+oxy+RQEvFeOC/ojUvNlrU=\n",
+    "iv": "gH3DmynVGjH2eophAeDyRQ==\n",
     "version": 1,
     "cipher": "aes-256-cbc"
   }
